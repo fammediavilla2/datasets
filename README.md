@@ -16,7 +16,10 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set us
 
 [Wikipedia reference](https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
-## Whiteside
+## [Whiteside](https://raw.githubusercontent.com/fammediavilla2/datasets/main/whiteside.csv)
 
 Mr Derek Whiteside of the UK Building Research Station recorded the weekly gas consumption and average external temperature at his own house in south-east England for two heating seasons, one of 26 weeks before, and one of 30 weeks after cavity-wall insulation was installed. The object of the exercise was to assess the effect of the insulation on gas consumption.
 
+[Reference from `R`](https://stat.ethz.ch/R-manual/R-devel/library/MASS/html/whiteside.html)
+
+-----------------------------
