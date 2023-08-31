@@ -22,4 +22,10 @@ Mr Derek Whiteside of the UK Building Research Station recorded the weekly gas c
 
 [Reference from `R`](https://stat.ethz.ch/R-manual/R-devel/library/MASS/html/whiteside.html)
 
+
+## [Titanic](https://github.com/fammediavilla2/datasets/blob/main/titanic.csv)
+
+This is a classic dataset used in many data mining tutorials and demos -- perfect for getting started with exploratory analysis and building binary classification models to predict survival.
+from [Noah Rippner](https://data.world/nrippner/titanic-disaster-dataset).
+
 -----------------------------
