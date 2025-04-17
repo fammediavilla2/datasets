@@ -28,4 +28,9 @@ Mr Derek Whiteside of the UK Building Research Station recorded the weekly gas c
 This is a classic dataset used in many data mining tutorials and demos -- perfect for getting started with exploratory analysis and building binary classification models to predict survival.
 from [Noah Rippner](https://data.world/nrippner/titanic-disaster-dataset).
 
+[WineQT]()
+
+This is a [Kaggle Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-dataset?resource=download) and it is related to red variants of the Portuguese "Vinho Verde" wine.The dataset describes the amount of various chemicals present in wine and their effect on it's quality. The classes are ordered and not balanced (e.g. there are much more "normal" wines than excellent or poor ones).Your task is to predict the quality of wine using the given data.
+
+
 -----------------------------
