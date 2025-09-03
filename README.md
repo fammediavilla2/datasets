@@ -35,7 +35,7 @@ This is a [Kaggle Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-
 ## [Cholera Outbreak 1854](https://github.com/fammediavilla2/datasets/tree/main/cholera-outbreak-1854)
 These [Data World](https://data.world/missdataviz/wow2021-w24-cholera-outbreak-1854) Original data from: http://blog.rtwilson.com/john-snows-cholera-data-in-more-formats/ is from Lorna Brown WOW2021 W24: Cholera Outbreak 1854. It consist of a collection of three datasets: water pump locations, individual deaths locations and aggregate deaths locations.
 
-## [Boston]()
+## [Boston](https://islp.readthedocs.io/en/latest/datasets/Boston.html)
 
 A data set containing housing values in 506 suburbs of Boston.
 
