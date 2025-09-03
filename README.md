@@ -35,4 +35,24 @@ This is a [Kaggle Dataset](https://www.kaggle.com/datasets/yasserh/wine-quality-
 ## [Cholera Outbreak 1854](https://github.com/fammediavilla2/datasets/tree/main/cholera-outbreak-1854)
 These [Data World](https://data.world/missdataviz/wow2021-w24-cholera-outbreak-1854) Original data from: http://blog.rtwilson.com/john-snows-cholera-data-in-more-formats/ is from Lorna Brown WOW2021 W24: Cholera Outbreak 1854. It consist of a collection of three datasets: water pump locations, individual deaths locations and aggregate deaths locations.
 
+## [Boston]()
+
+A data set containing housing values in 506 suburbs of Boston.
+
++ crim: per capita crime rate by town.
++ zn: proportion of residential land zoned for lots over 25,000 sq.ft.
++ indus: proportion of non-retail business acres per town.
++ chas: Charles River dummy variable (= 1 if tract bounds river; 0 otherwise).
++ nox: nitrogen oxides concentration (parts per 10 million).
++ rm: average number of rooms per dwelling.
++ age: proportion of owner-occupied units built prior to 1940.
++ dis: weighted mean of distances to five Boston employment centres.
++ rad: index of accessibility to radial highways.
++ tax: full-value property-tax rate per $10,000.
++ ptratio: pupil-teacher ratio by town.
++ lstat: lower status of the population (percent).
++ medv: median value of owner-occupied homes in $1000s.
+
+This dataset was obtained from, and is slightly modified from, the Boston dataset that is part of the R library MASS. References are available in the MASS library.
+
 -----------------------------
