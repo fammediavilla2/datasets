@@ -55,7 +55,7 @@ A data set containing housing values in 506 suburbs of Boston.
 
 This dataset was obtained from, and is slightly modified from, the Boston dataset that is part of the R library MASS. References are available in the MASS library.
 
-## Chemical Reaction Data
+## [Chemical Reaction Data](https://raw.githubusercontent.com/fammediavilla2/datasets/refs/heads/main/ChemicalReactionData.csv)
 From Rencher Methods in Multivariate Analysis.
 The results of a planned experiment involving a chemical reaction are given in Table 10.1 (Box and Youle 1955).
 The input (independent) variables are: $x_1$ = temperature, $x_2$ concentration, $x_3$ = time.
