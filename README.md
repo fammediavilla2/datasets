@@ -76,14 +76,23 @@ The 10 columns in PhysFuncData correspond to these questions:
 Each variable is one of the following:
 
 Vigorous activities (running, lifting heavy objects)
+
 Moderate activities (moving table, vacuuming)
+
 Lifting or carrying groceries
+
 Climbing several flights of stairs
+
 Climbing one flight of stairs
+
 Bending, kneeling, or stooping
+
 Walking more than a mile
+
 Walking several blocks
+
 Walking one block
+
 Bathing or dressing yourself
 Each variable is ordinal:
 
