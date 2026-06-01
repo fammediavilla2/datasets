@@ -66,8 +66,32 @@ The yield (dependent) variables are:
 
 -----------------------------
 
-[https://raw.githubusercontent.com/fammediavilla2/datasets/refs/heads/main/PhysFuncData.csv]
+## [SF‑36 Physical Functioning](https://raw.githubusercontent.com/fammediavilla2/datasets/refs/heads/main/PhysFuncData.csv)
+The SF‑36 Physical Functioning (PF) scale is one of the eight subscales of the 36‑Item Short Form Health Survey (SF‑36), a widely used instrument for measuring health-related quality of life.
 
+The 10 columns in PhysFuncData correspond to these questions:
+
+“Does your health now limit you in these activities?”
+
+Each variable is one of the following:
+
+Vigorous activities (running, lifting heavy objects)
+Moderate activities (moving table, vacuuming)
+Lifting or carrying groceries
+Climbing several flights of stairs
+Climbing one flight of stairs
+Bending, kneeling, or stooping
+Walking more than a mile
+Walking several blocks
+Walking one block
+Bathing or dressing yourself
+Each variable is ordinal:
+
+0 = No, not limited at all
+1 = Yes, limited a little
+2 = Yes, limited a lot
+
+The dataset is derived from a copyrighted survey instrument and the package avoids redistributing full item text.
 
 
 -----------------------------
