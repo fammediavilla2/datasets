@@ -65,3 +65,10 @@ The yield (dependent) variables are:
 + $y_3$ percentage of unwanted by-product.
 
 -----------------------------
+
+[https://raw.githubusercontent.com/fammediavilla2/datasets/refs/heads/main/PhysFuncData.csv]
+
+
+
+-----------------------------
+
